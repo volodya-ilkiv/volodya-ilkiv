@@ -21,17 +21,15 @@ Most of my work lives in private commercial repositories, but my focus areas inc
 
 ## Tech Stack
 
-```swift
-let stack: [String: [String]] = [
-    "Languages":     ["Swift", "Objective-C"],
-    "UI":            ["SwiftUI", "UIKit", "Combine"],
-    "Architecture":  ["MVVM", "Clean Architecture", "Modular Design"],
-    "Networking":    ["REST APIs", "WebSockets", "SSE", "Moya", "Alamofire"],
-    "Data":          ["GRDB", "Core Data", "Firebase"],
-    "AI & ML":       ["LLM Integrations", "Core ML", "AVFoundation"],
-    "DevOps":        ["Xcode Cloud", "GitHub Actions", "Fastlane"],
-    "Tools":         ["Xcode", "Instruments", "Charles", "Jira"]
-]
+```
+Languages:     Swift, Objective-C
+UI:            SwiftUI, UIKit, Combine
+Architecture:  MVVM, Clean Architecture, Modular Design
+Networking:    REST APIs, WebSockets, SSE, Moya, Alamofire
+Data:          GRDB, Core Data, Firebase
+AI & ML:       LLM Integrations, Core ML, AVFoundation
+DevOps:        Xcode Cloud, GitHub Actions, CI/CD
+Tools:         Xcode, Instruments, Charles, Jira
 ```
 
 -----
